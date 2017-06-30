@@ -24,6 +24,8 @@ gem 'convenient_grouper'
 gem "chartkick"
 gem 'activerecord-import'
 
+gem 'pry-byebug', group: [:development, :test]
+
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_21]
