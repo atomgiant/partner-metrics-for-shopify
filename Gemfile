@@ -23,6 +23,7 @@ gem 'groupdate'
 gem 'convenient_grouper'
 gem "chartkick"
 gem 'activerecord-import'
+gem 'rubyzip'
 
 gem 'pry-byebug', group: [:development, :test]
 
